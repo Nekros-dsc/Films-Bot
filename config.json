@@ -1,0 +1,4 @@
+{
+    "clientToken": "Put-Token-Here",
+    "mongoUrl": "Mongo Uri Here"
+}
